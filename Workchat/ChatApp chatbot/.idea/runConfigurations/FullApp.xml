@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FullApp" type="CompoundRunConfigurationType">
+    <toRun name="WebSocketClientExample" type="Application" />
+    <toRun name="WebSocketServerExample" type="Application" />
+    <toRun name="Tomcat 10.1.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+    <method v="2" />
+  </configuration>
+</component>

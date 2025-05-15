@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" />
+  </component>
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="hibernate.cfg.xml" value="5c454039-a4df-43ae-b2e4-41aa014f8459" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/ChatApp/src/main/resources/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/ChatApp/.smarttomcat/ChatApp/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/ChatApp/.smarttomcat/ChatApp/conf" relative="/WEB-INF" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/ChatApp/src/main/java" />
+          <root url="file://$MODULE_DIR$/ChatApp/src/main/resources" />
+          <root url="file://$MODULE_DIR$/ChatApp/target/generated-sources/annotations" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+</module>
